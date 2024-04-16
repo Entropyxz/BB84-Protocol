@@ -27,7 +27,8 @@ git clone https://git.txstate.edu/cac570/CS4371.git
 ## Running the Simulation
 
 ### Using Jupyter Notebook
-Ensure you have Jupyter Notebook installed. If not, you can install it via pip:
+Ensure you have Jupyter Notebook installed. 
+If not, you can install it via pip:
 pip install notebook
 
 To launch the notebook:
