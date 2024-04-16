@@ -22,8 +22,6 @@ git clone https://git.txstate.edu/cac570/CS4371.git
 
 
 ### Running the Simulation
-```bash
-cd CS4371
 jupyter notebook BB84.ipynb
 
 
