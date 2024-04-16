@@ -37,9 +37,9 @@ The repository includes test data in the form of pre-configured settings in the 
 
 ### Scholarly References
 
-####Foundational Research: Bennett, C. H., & Brassard, G. (1984). Quantum cryptography: Public key distribution and coin tossing. In Proceedings of IEEE International Conference on Computers, Systems and Signal Processing (pp. 175–179). IEEE.
+Foundational Research: Bennett, C. H., & Brassard, G. (1984). Quantum cryptography: Public key distribution and coin tossing. In Proceedings of IEEE International Conference on Computers, Systems and Signal Processing (pp. 175–179). IEEE.
 
-####Contemporary Research: Wang, Q., Xu, F., Zhao, Y., & Lo, H.-K. (2023). Enhancing the security of quantum key distribution with basis mismatched events. Physical Review Research, 5(2), 023065.
+Contemporary Research: Wang, Q., Xu, F., Zhao, Y., & Lo, H.-K. (2023). Enhancing the security of quantum key distribution with basis mismatched events. Physical Review Research, 5(2), 023065.
 
 ### Conclusion
 This project demonstrates a practical application of quantum mechanics in the field of secure communications.
