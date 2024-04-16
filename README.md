@@ -22,7 +22,10 @@ git clone https://git.txstate.edu/cac570/CS4371.git
 
 
 ### Running the Simulation
+```bash
+cd CS4371
 jupyter notebook BB84.ipynb
+
 
 ### Functionality
    - The simulation visualizes the creation of qubits, the process of eavesdropping, and the sifting of a quantum key.
