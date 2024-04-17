@@ -36,7 +36,7 @@ pip install notebook
 To launch the notebook:
 jupyter notebook BB84.ipynb
 
-# For Ubuntu users
+### For Ubuntu users
 sudo apt update
 sudo apt install python3-pip python3-dev
 pip3 install notebook numpy qiskit matplotlib IPython
