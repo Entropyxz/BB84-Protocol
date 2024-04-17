@@ -10,15 +10,17 @@ This simulator uses Qiskit, a framework for quantum computing, to create and vis
 To run this simulation, you need Python and the following packages:
 - `numpy`
 - `qiskit` 
+- `qiskit-aer`
 - `IPython`
 - `matplotlib` (optional for additional plotting functionality)
+- `pylatexenc` (needed for matplotlib)
 
 
 ### Setting Up Your Environment
 1. Ensure you have Python installed. Python 3.8 or later is recommended.
 2. Install the required packages using pip:
    ```bash
-   pip install numpy qiskit matplotlib IPython
+   pip install numpy qiskit matplotlib IPython qiskit-aer pylantexenc
 
 ### Cloning the Repository
 git clone https://git.txstate.edu/cac570/CS4371.git
