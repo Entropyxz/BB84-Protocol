@@ -23,7 +23,7 @@ To run this simulation, you need Python and the following packages:
    pip install numpy qiskit matplotlib IPython qiskit-aer pylantexenc
 
 ### Cloning the Repository
-git clone https://git.txstate.edu/cac570/CS4371.git
+git clone https://github.com/Entropyxz/BB84-Protocol
 
 
 ## Running the Simulation
